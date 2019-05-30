@@ -1,1 +1,2 @@
-# decentralized-finance
+# Decentralised finance projects
+
