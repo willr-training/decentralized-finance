@@ -39,3 +39,5 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 <a name="articles" />
 
 ## Articles
+
+- [Why care about crypto finance](https://medium.com/wyre-capital/why-you-should-care-about-crypto-finance-61078b18f70d)
