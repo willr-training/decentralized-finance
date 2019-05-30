@@ -4,7 +4,7 @@ List of favourite decentralised finance projects.
 
 ## Major resource
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ong/awesome-decentralized-finance)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)][Awesome decentralized finance](https://github.com/ong/awesome-decentralized-finance)
 
 ## What is Decentralized Finance?
 
@@ -34,7 +34,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 
 ## Visualisations
 
-- [Infograph decentralised finance](https://www.visualcapitalist.com/decentralized-finance/) 
+- [Infograph decentralised finance](https://www.visualcapitalist.com/decentralized-finance/)
 
 <a name="articles" />
 
