@@ -1,6 +1,6 @@
 # Decentralised finance projects
 
-List of favourite decentralised finance projects.
+List of my favourite decentralised finance projects.
 
 ## Major resource
 
